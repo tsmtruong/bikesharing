@@ -5,7 +5,7 @@ The purpose of this analysis was to help pitch the idea of opening a Citibike li
 
 ## Tableau Link
 
-[link to dashboard]([https://public.tableau.com/app/profile/stephanie.truong4377](https://public.tableau.com/shared/KQ9JCGCQ2?:display_count=n&:origin=viz_share_link))
+[link to dashboard](https://public.tableau.com/shared/KQ9JCGCQ2?:display_count=n&:origin=viz_share_link)
 
 ## Results
 
